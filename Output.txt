@@ -1,0 +1,13 @@
+output:-
+
+1}
+C:\Users\kiran\Desktop>Asn03P12 input.txt 30
+optimal solution is : 145.000000
+
+2}
+C:\Users\kiran\Desktop>Asn03P12 input.txt 40
+optimal solution is : 160.000000
+
+3}
+C:\Users\Appanna\Desktop>Asn03P12 input.txt 35
+optimal solution is : 152.500000
